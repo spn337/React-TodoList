@@ -1,0 +1,9 @@
+.app-content{
+    margin: 30px auto 0 auto;
+    max-width: 500px;
+}
+
+.panel{
+    display: flex;
+    margin: 20px 0;
+}
